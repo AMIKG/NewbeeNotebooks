@@ -4,11 +4,16 @@ Notebooks of iFLYTEK&amp;GZIST AI Industry-Academia Collaborative College
 
 ## Owner
 
-- Lin Zixian
+- [Lin Zixian](LinZixian/lzx.html)
 
 ## Members
 
-- Li Jungeng
+- [Li Jungeng](https://www.baidu.com)
 - Qiu Zhuo
 - Chen Hansen
 - Zhang Runtian
+- WenRuiWen
+- Lin Zemin
+- Zhong Jiayi
+- Shi Tanqi
+- Ye Zifeng
